@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <WiFiClient.h>  // Regular HTTP client
 
-const char* ssid = "YOUR_WIFI";
-const char* password = "YOUR_PASSWORD";
+const char* ssid = "LacyMeRollin";
+const char* password = "YaGottaBelieve";
 
 // Use your EC2 instance's public IP address and Flask server port (5000)
 const char* serverIp = "YOUR_IP_ADDRESS";  // Replace with your EC2 public IP address
